@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "framework": "vite"
+}
+=======
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "framework": "vite"
+}
+>>>>>>> 63ba6224798559bbbf561bd3d61008c5146a452b

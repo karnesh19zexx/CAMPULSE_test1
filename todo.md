@@ -1,0 +1,1 @@
+- [x] Add base: '/' to vite.config.ts to ensure the base path is correct.
